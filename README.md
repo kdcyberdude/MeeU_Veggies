@@ -1,17 +1,11 @@
 # MeeU_Veggies
-
-## Click to watch video
-
-
-# Consumer App video
+MeeU Veggies Play Store: https://play.google.com/store/apps/details?id=com.meeuveggies<br/>
+MeeU Admin Play Store: https://play.google.com/store/apps/details?id=com.meeuadmin
+# Consumer App video - Click to watch video
 [![Watch the video](MeeU_Veggies.gif)](https://youtu.be/yNkdlO33sOM)
-
 <br/>
 <br/>
-
-# Admin App video 
+# Admin App video - Click to watch video
 [![Watch the video](MeeU_Admin.gif)](https://youtu.be/5xb0WeJuVxQ)
 
 <br/>
-<br/>
-Play Store links comming soon...
